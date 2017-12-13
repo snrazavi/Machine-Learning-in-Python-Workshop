@@ -13,9 +13,17 @@ My workshop on machine learning using python language to implement different alg
 - **Week 09:** Advanced topics including dropout, batch normalization, weight initialization and other optimization methods(Adam, RMSProp)
 - **Week 10:** Inroduction to Deep Learning and implementing a *Convolutional Neural Network (CNN)* for image classification.
 
-## Video in YouTube (in Persian):
+## Prerequisites:
+- A basic knowledge of Python programming language.
+- A good understaning of Machine Learning.
+- Linear Algebra
+
+## Videos in YouTube (in Persian):
 - http://www.youtube.com/c/SeyedNaserRazavi
 
 ## My website Address:
 - containing anything you need to learn and of course to use machine learning in real world applications:
 - http://wwww.snrazavi.ir/
+
+## The workshop page on my website:
+- http://www.snrazavi.ir/ml-with-python/
