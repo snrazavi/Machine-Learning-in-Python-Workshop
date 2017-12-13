@@ -1,5 +1,5 @@
 # Machine-Learning-in-Python-Workshop
-My workshop on machine learning using python language to implement different algorithms (University of Tabriz, Iran, 2017).
+My workshop on machine learning using python language to implement different algorithms (University of Tabriz, Iran, 2017). 
 
 ## Contents
 ### Part 1: Using existing packages for machine learning (Week 1 to 5)
@@ -27,3 +27,5 @@ My workshop on machine learning using python language to implement different alg
 
 ## The workshop page on my website:
 - http://www.snrazavi.ir/ml-with-python/
+
+**Note:** The materials of this workshop are inspired from awesome lectures presented by Andrej Karpathy at Stanford, 2016.
