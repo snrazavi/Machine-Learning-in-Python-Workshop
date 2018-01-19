@@ -29,3 +29,7 @@ My workshop on machine learning using python language to implement different alg
 - http://www.snrazavi.ir/ml-with-python/
 
 **Note:** The materials of this workshop are inspired from awesome lectures presented by Andrej Karpathy at Stanford, 2016.
+
+### References:
+- Parts 6 to 8 are inspired from the wonderful course <a href="cs231n.satanford.edu">cs231n</a>.
+- Parts 5 and 6 are heavily inspired from <a href="https://github.com/amueller/scipy-2017-sklearn">SciPy 2016 Scikit-learn Tutorial<a>.
